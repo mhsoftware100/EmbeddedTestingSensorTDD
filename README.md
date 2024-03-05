@@ -4,6 +4,13 @@ This is a simple test-driven project for an embedded system, demonstrating the i
 
 ## How to Use
 
+#### Get the project:
+
+```bash
+git clone --recurse-submodules https://github.com/mhsoftware100/EmbeddedTestingSensorTDD.git
+```
+
+
 #### Install Make:
 Ensure that Make is installed on your Linux system. You can install it using the package manager specific to your distribution. For example, on Debian/Ubuntu-based systems, you can run:
 ```bash

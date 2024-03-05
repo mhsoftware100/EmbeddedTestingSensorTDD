@@ -3,7 +3,7 @@ CFLAGS = -Wall -Werror -I$(SRC_DIR) -I$(UNITY_SRC_DIR) -I$(TEST_DIR)
 LDFLAGS =
 
 SRC_DIR = src
-UNITY_SRC_DIR = unity/src
+UNITY_SRC_DIR = Unity/src
 TEST_DIR = test
 BUILD_DIR = build
 OBJ_DIR = $(BUILD_DIR)/obj
