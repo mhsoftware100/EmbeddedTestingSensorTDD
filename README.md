@@ -28,5 +28,8 @@ Execute the following command to run the unit test cases:
 ```bash
 make test
 ```
-![Alt Text](doc/images/Test%20Result.png)
+![Test Result](doc/images/Test%20Result.png)
+
+
+#### Customize and Contribute
 Feel free to explore the code and modify it according to your requirements. If you encounter any issues or have questions, don't hesitate to reach out. Happy coding!
